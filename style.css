@@ -1,0 +1,40 @@
+#Registration{
+	height: 400px;
+	width: 30%;
+	background-color: #ebebeb;
+	margin-left: 35%;
+	margin-top: 100px;
+	border-radius: 15px;
+	padding-top: 20px;
+
+}
+#Authorization{
+	height: 400px;
+	width: 30%;
+	background-color: #ebebeb;
+	margin-left: 35%;
+	margin-top: 100px;
+	border-radius: 15px;
+	padding-top: 20px;
+}
+h1{
+	color: #423fe0;
+
+}
+.Margin{
+	margin-top: 20px;
+}
+.inputs{
+	width: 250px;
+	height: 30px;
+	border: 0.5px solid black;
+	border-radius: 5px;
+}
+.buttons{
+	color: white;
+	background-color: #827fff;
+	width: 100px;
+	height: 30px;
+	border: 0px solid white;
+	border-radius: 15px;
+}
